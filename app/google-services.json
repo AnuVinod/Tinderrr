@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447728113401",
+    "project_id": "tinderrr-8b317",
+    "storage_bucket": "tinderrr-8b317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447728113401:android:6bb82bcf6f98fc52167428",
+        "android_client_info": {
+          "package_name": "com.hazaltoglobhal.tinderrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447728113401-fhu2lsuf8eao01mg8osm9vhbk7jb2qct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hazaltoglobhal.tinderrr",
+            "certificate_hash": "c1451110f92688b23960ac7c8ae97e4002ce23a6"
+          }
+        },
+        {
+          "client_id": "447728113401-q49dn4t1n2efmsirurualg8vtj96ctqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYykyK9P6EIGHJDMgzysrml_aa6_WyNF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447728113401-q49dn4t1n2efmsirurualg8vtj96ctqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
