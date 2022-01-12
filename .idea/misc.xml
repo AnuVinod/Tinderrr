@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_choose_login_registraction.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_choose_login_registration.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.30978260869565216" />
+        <entry key="app/src/main/res/layout/activity_matches.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_chat.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/item_matches.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/matchesitem.xml" value="0.29030797101449274" />
       </map>
     </option>
   </component>

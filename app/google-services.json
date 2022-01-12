@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "447728113401",
-    "project_id": "tinderrr-8b317",
-    "storage_bucket": "tinderrr-8b317.appspot.com"
+    "project_number": "731736145627",
+    "project_id": "tinderrr-27109",
+    "storage_bucket": "tinderrr-27109.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:447728113401:android:6bb82bcf6f98fc52167428",
+        "mobilesdk_app_id": "1:731736145627:android:c3cf4653435c757f2a96fe",
         "android_client_info": {
           "package_name": "com.hazaltoglobhal.tinderrr"
         }
       },
       "oauth_client": [
         {
-          "client_id": "447728113401-fhu2lsuf8eao01mg8osm9vhbk7jb2qct.apps.googleusercontent.com",
+          "client_id": "731736145627-7idgaq3tt95qk48m1r60pk26c0jlkpf2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.hazaltoglobhal.tinderrr",
@@ -22,20 +22,20 @@
           }
         },
         {
-          "client_id": "447728113401-q49dn4t1n2efmsirurualg8vtj96ctqj.apps.googleusercontent.com",
+          "client_id": "731736145627-pst6h8nij4m7kkk1pj3j24r54g4chkva.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAYykyK9P6EIGHJDMgzysrml_aa6_WyNF0"
+          "current_key": "AIzaSyD-e_3ovP7QU0wXYnfIbibu7wV1_-lYOuk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "447728113401-q49dn4t1n2efmsirurualg8vtj96ctqj.apps.googleusercontent.com",
+              "client_id": "731736145627-pst6h8nij4m7kkk1pj3j24r54g4chkva.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
